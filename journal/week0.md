@@ -20,6 +20,7 @@ proof of work:
 proof of work: ![image](assets/billing-alert.png)
 
 ### -Created budget 2/15/23
+proof of work: ![](assets/budgets.png)
 ### -Cenerated AWS credentials 2/16/23
 ### -Used CloudShell 2/16/23
 ### -Installed AWS CLI in Gitpod 2/16/23
